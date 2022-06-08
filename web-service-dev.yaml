@@ -1,5 +1,5 @@
 example:
-  property: example property dev
+  property: example property dev github
 
 app:
   httpClient: ApiClient
